@@ -14,7 +14,7 @@ labels:
 app: demo-ui
 spec:
 containers:
-- image: emanoeliiso/devops-ui:e17ba48530c1be1c1231280bd97c45955a29935b
+- image: emanoeliiso/devops-ui:41759306bae44c06e5d0c6a35509da375b983f4f
 name: demo-ui
 ports:
 - containerPort: 80
